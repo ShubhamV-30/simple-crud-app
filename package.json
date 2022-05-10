@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajni3541/SIMPLE-CURD-APP.git"
+    "url": "git+https://github.com/ShubhamV-30/simple-crud-app.git"
   },
-  "author": "rajni",
+  "author": "shubham",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rajni3541/SIMPLE-CURD-APP/issues"
+    "url": "https://github.com/ShubhamV-30/simple-crud-app/issues"
   },
-  "homepage": "https://github.com/rajni3541/SIMPLE-CURD-APP#readme",
+  "homepage": "https://github.com/ShubhamV-30/simple-crud-app#readme",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "bcryptjs": "^2.4.3",
